@@ -10,31 +10,37 @@ An AI-assisted email operations dashboard. This MVP runs with realistic demo dat
 
 Show the complete InboxOps landing page with the sidebar, priority inbox, filters, account selector, and visible email cards.
 
-**[Place image here — InboxOps root page / priority inbox]**
+<img width="911" height="955" alt="image" src="https://github.com/user-attachments/assets/6e08b9fb-eee7-4449-b488-74666e246fd3" />
+
 
 ### 2. Gmail account connection
 
 Show the connected Gmail account or account connection panel. Hide personal email addresses, OAuth codes, and private messages if you use a real account.
 
-**[Place image here — Gmail account connected successfully]**
+<img width="568" height="1026" alt="image" src="https://github.com/user-attachments/assets/8945668b-32f6-4f91-ada3-638ba2a15978" />
+
 
 ### 3. Automated classification and prioritization
 
 Show messages organized into smart sections with their priority scores, categories, and explanations.
 
-**[Place image here — Automated smart sections and priority scoring]**
+<img width="462" height="1032" alt="image" src="https://github.com/user-attachments/assets/978bb1e6-d390-4a49-8e5b-d5b7b8517936" />
+
 
 ### 4. AI email analysis
 
 Show a selected conversation with its summary, detected action, deadline, people, and extracted tasks.
 
-**[Place image here — AI summary, action items, and entity extraction]**
+<img width="907" height="568" alt="image" src="https://github.com/user-attachments/assets/44498f3d-7d05-4ffd-a1ab-4f60858df79b" />
+<img width="288" height="292" alt="image" src="https://github.com/user-attachments/assets/711da7c8-5912-4b41-8f79-4c8f254a2e0f" />
+
 
 ### 5. AI reply draft with approval gate
 
 Show a generated reply draft, tone selector, editing controls, and the explicit approval step before sending.
 
-**[Place image here — AI reply draft and approval-before-send workflow]**
+<img width="853" height="503" alt="image" src="https://github.com/user-attachments/assets/93a2db94-da5a-45a5-9f03-ca206212c294" />
+
 
 ### 6. Reminder and follow-up automation
 
