@@ -46,7 +46,8 @@ Show a generated reply draft, tone selector, editing controls, and the explicit 
 
 Show a scheduled reminder or tracked follow-up and the persistent notification produced by the background worker.
 
-**[Place image here — Automated reminder, follow-up, or notification]**
+<img width="542" height="370" alt="image" src="https://github.com/user-attachments/assets/f9363afc-b44d-47aa-a5cd-f8863b4a8924" />
+
 
 ### 7. Automation status and run history
 
