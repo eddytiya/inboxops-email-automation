@@ -5,3 +5,6 @@ __pycache__/
 .env
 backend/secrets/
 backend/data/
+.agents/
+.codex/
+.impeccable/
