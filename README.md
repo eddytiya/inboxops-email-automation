@@ -53,25 +53,33 @@ Show a scheduled reminder or tracked follow-up and the persistent notification p
 
 Show the automation status or run-history response, including successful inbox synchronization and follow-up checks. This can be captured from the application or `/api/automation/status` and `/api/automation/runs`.
 
-**[Place image here — Background automation status and successful run history]**
+<img width="817" height="867" alt="image" src="https://github.com/user-attachments/assets/d14885ff-b076-415f-946b-fccf384699ec" />
+<img width="797" height="808" alt="image" src="https://github.com/user-attachments/assets/7f2a2f87-ce9b-49b9-ac5b-ea4e2574de61" />
+
+
 
 ### 8. Calendar workflow
 
 Show availability checking or the calendar event review screen before the user approves event creation.
 
-**[Place image here — Calendar availability and approval-gated event creation]**
+<img width="1127" height="850" alt="image" src="https://github.com/user-attachments/assets/66e89959-2cfd-4ead-b710-21086613e420" />
+
+
+
 
 ### 9. Search, tasks, and contacts
 
 Show local inbox search results, extracted tasks, or contact prioritization.
 
-**[Place image here — Search, task tracking, and contact intelligence]**
+<img width="1117" height="846" alt="image" src="https://github.com/user-attachments/assets/f3ed06ce-eee4-4724-8c1b-0f92f3085182" />
+
 
 ### 10. CI automation
 
 Show the green GitHub Actions check demonstrating that frontend validation, production build, and backend tests pass automatically.
 
-**[Place image here — Successful GitHub Actions CI run]**
+<img width="1437" height="592" alt="image" src="https://github.com/user-attachments/assets/ca46787d-775b-416b-be10-07aeaadc0784" />
+
 
 ## Run locally
 
