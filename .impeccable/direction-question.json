@@ -1,0 +1,73 @@
+{
+  "title": "Choose InboxOps' visual world",
+  "question": "Signal Ledger best balances Gmail clarity, technical credibility, and portfolio impact. Keep it, choose a challenger, or steer the direction.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "Signal Ledger",
+      "kicker": "RECOMMENDED",
+      "lineage": "rail dispatch boards, flight-progress strips, audited operations ledgers",
+      "thesis": "Every message becomes a routed work item with visible provenance, clearance, and next action.",
+      "palette": ["#f3f4f1", "#101827", "#315cff", "#e39b24", "#d7e4df"],
+      "materials": ["precision-printed labels", "mineral panels", "signal enamel"],
+      "viewport": "A calm light workspace with a dark account rail, a dispatch-style inbox tape, and a focused thread inspector.",
+      "case": "It makes multi-account state, urgency, human approval, and AI provenance understandable in one scan.",
+      "risk": "Operational density can feel severe unless typography and negative space stay generous.",
+      "sketch": ".impeccable/sketches/assigned.webp"
+    },
+    {
+      "id": "challenger-flight",
+      "label": "Night Flight Six-Pack",
+      "kicker": "CHALLENGER",
+      "lineage": "aircraft night instruments and pre-glass cockpit scan patterns",
+      "thesis": "The inbox becomes a set of luminous instruments for workload, urgency, and follow-up risk.",
+      "palette": ["#070a0d", "#e8f0e8", "#8ebc72", "#e2a33b", "#c95645"],
+      "materials": ["matte instrument black", "radium markings", "brushed hardware"],
+      "viewport": "A dark six-instrument overview gives way to a precise message and action surface.",
+      "case": "It feels highly technical and memorable, but gauges are less natural than rows for reading email.",
+      "risk": "A dark cockpit can make long reading sessions tiring and overstate urgency.",
+      "sketch": ".impeccable/sketches/challenger-flight.webp",
+      "hero": "https://impeccable.style/worlds/cards/signals-instruments-night-flight-six-pack-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/signals-instruments-night-flight-six-pack.webp"
+    },
+    {
+      "id": "challenger-desktop",
+      "label": "One-Bit Workstation",
+      "kicker": "CHALLENGER",
+      "lineage": "early monochrome desktop publishing and bitmap productivity tools",
+      "thesis": "InboxOps feels like a focused, characterful email machine built for keyboard speed.",
+      "palette": ["#f4f4ef", "#151515", "#777873", "#2d5cff"],
+      "materials": ["dithered paper", "pixel chrome", "inked separators"],
+      "viewport": "A crisp monochrome desktop with tiled message windows and one electric-blue action color.",
+      "case": "It is portfolio-memorable and disciplined, but risks making advanced automation feel nostalgic.",
+      "risk": "Pixel language may reduce perceived maturity if used beyond icons and micro-details.",
+      "sketch": ".impeccable/sketches/challenger-desktop.webp",
+      "hero": "https://impeccable.style/worlds/cards/medium-native-one-bit-desktop-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/medium-native-one-bit-desktop.webp"
+    },
+    {
+      "id": "challenger-cloud",
+      "label": "Aurora Edge",
+      "kicker": "CHALLENGER",
+      "lineage": "storm-light photography, iridescent cloud edges, quiet evidence rooms",
+      "thesis": "A calm white workspace uses narrow spectral edges to reveal AI insight without visual noise.",
+      "palette": ["#f7f8f7", "#303844", "#9ce1cf", "#d7a2d5", "#8299e8"],
+      "materials": ["diffuse daylight", "frosted edge light", "fine slate rules"],
+      "viewport": "An airy inbox and reader are organized by thin evidence panels with restrained color fringes.",
+      "case": "It supports trust and reading comfort, but communicates less operational rigor than Signal Ledger.",
+      "risk": "The atmospheric edge treatment can become generic AI decoration if overused.",
+      "sketch": ".impeccable/sketches/challenger-cloud.webp",
+      "hero": "https://impeccable.style/worlds/cards/clouds-storms-auroras-iridescent-cloud-edge-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/clouds-storms-auroras-iridescent-cloud-edge.webp"
+    }
+  ],
+  "reroll": true,
+  "canon": true,
+  "canonCard": {
+    "label": "Premium SaaS standard",
+    "thesis": "A familiar polished email dashboard with restrained cards, clean navigation, and conventional hierarchy.",
+    "viewport": "The three-column inbox arrangement users already expect, executed at a high craft level.",
+    "sketch": ".impeccable/sketches/canon.webp"
+  },
+  "steer": true
+}

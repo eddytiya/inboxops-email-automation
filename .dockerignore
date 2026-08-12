@@ -1,0 +1,7 @@
+node_modules
+dist
+.venv
+backend/data
+backend/secrets
+__pycache__
+.git
